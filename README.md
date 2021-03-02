@@ -1,4 +1,4 @@
-# CurrencyExchange
+# Currency Exchange
 
 Program converts the 10 most traded currencies in the world.  
 Created for personal training using online tutorials as support material.  

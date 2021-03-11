@@ -1,4 +1,4 @@
-# Currency Exchange Tool
+# Currency Exchange
 
 Application that converts the 10 most traded currencies in the world in 2020.  
 Created for personal training using online tutorials as support material.  
